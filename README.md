@@ -1,5 +1,4 @@
 # wpshorturl
-Plugin supports popular URL shortener services like `0k.lv` and `2my.site`
-
+Plugin supports popular URL shortener service `0k.lv`
 ### Usage
 Put shortcode `[wpshorturl]` into your post body text.
